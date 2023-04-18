@@ -9,3 +9,7 @@ o
 ?src/main/java/com/ajocasol/springframework/game/GameRunner.java,1/d/1db99b9b7346af85166be80e4c438e5695a4a561
 ‹
 [src/main/java/com/ajocasol/springframework/examples/a1/DepInjectionLauncherApplication.java,0/a/0a1127b114a6055d7638a3c6cb84cb34ca4a3465
+‹
+[src/main/java/com/ajocasol/springframework/examples/a0/DepInjectionLauncherApplication.java,5/5/556872748a1d3137d2f704e803d37c2d09dbd974
+’
+bsrc/main/java/com/ajocasol/springframework/examples/a0/SimpleSpringContextLauncherApplication.java,3/d/3d3fa1bb219d81f02591c13e5875edbc59197d84

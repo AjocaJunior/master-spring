@@ -1,4 +1,14 @@
 
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ğÊ©ıÿÿÿÿ8ùÊÿ¢ù0H±RMAJORZ
+CODE_SMELL
+p	java:S106G"9Replace this use of System.out or System.err by a logger.(”©Ğûÿÿÿÿ8ÉĞ­£ù0HÓRMAJORZ
+CODE_SMELL
 {
-java:S1128"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰Ş8Î˜î¢ù0H¨RMINORZ
+java:S1128"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰Ş8Î˜î¢ù0H®RMINORZ
+CODE_SMELL
+k	java:S106H"9Replace this use of System.out or System.err by a logger.(øÀ‹Û8†æÉ£ù0HÚRMAJORZ
+CODE_SMELL
+s	java:S125$"<This block of commented-out lines of code should be removed.(µÏÀÚøÿÿÿÿ8ó†Ù£ù0HŞRMAJORZ
+CODE_SMELL
+s	java:S125*"<This block of commented-out lines of code should be removed.(° ’ôıÿÿÿÿ8ó†Ù£ù0HâRMAJORZ
 CODE_SMELL
