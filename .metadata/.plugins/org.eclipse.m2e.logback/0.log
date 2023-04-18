@@ -1,0 +1,116 @@
+2023-04-18 13:55:19,226 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-18 13:56:13,775 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ajocasol:spring-framework:0.0.1-SNAPSHOT @ /home/assisjr/eclipse-workspace/master-spring/spring-framework-2/pom.xml.
+2023-04-18 13:56:14,157 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 13:56:14,177 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 13:56:14,185 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/spring-framework-2/src/test/resources
+2023-04-18 13:56:15,670 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 13:56:15,689 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 13:56:15,696 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/spring-framework-2/src/test/resources
+2023-04-18 13:56:17,230 [Worker-0: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ajocasol:spring-framework:0.0.1-SNAPSHOT @ /home/assisjr/eclipse-workspace/master-spring/spring-framework-2/pom.xml.
+2023-04-18 13:57:15,837 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ajocasol:spring-framework:0.0.1-SNAPSHOT @ /home/assisjr/eclipse-workspace/master-spring/spring-framework-1/pom.xml.
+2023-04-18 13:57:16,803 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 13:57:16,824 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 13:57:16,829 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/spring-framework-1/src/test/resources
+2023-04-18 13:57:17,122 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 13:57:17,132 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 13:57:17,135 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/spring-framework-1/src/test/resources
+2023-04-18 13:57:18,266 [Worker-4: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ajocasol:spring-framework:0.0.1-SNAPSHOT @ /home/assisjr/eclipse-workspace/master-spring/spring-framework-1/pom.xml.
+2023-04-18 14:03:46,191 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 14:03:46,224 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 14:03:46,228 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/spring-framework-2/src/test/resources
+2023-04-18 14:03:50,554 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 14:03:50,582 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 14:03:50,596 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/spring-framework-2/src/test/resources
+2023-04-18 14:04:34,336 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-18 14:08:11,092 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 14:08:11,111 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 14:08:11,115 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/spring-framework-2/src/test/resources
+2023-04-18 14:09:42,720 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.13; built: 2022-12-07T20:13:20.134Z; git: 1c2636ea05c0ca8de1ffd6ca7f3a98ac084c766d; jvm 17.0.6+10
+2023-04-18 14:09:42,738 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2023-04-18 14:09:42,765 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@6e8ea78b{/help,null,AVAILABLE}
+2023-04-18 14:09:42,775 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@3db6cef8{HTTP/1.1, (http/1.1)}{127.0.0.1:40517}
+2023-04-18 14:09:42,776 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@1bd089df{STARTING}[10.0.13,sto=0] @319374ms
+2023-04-18 14:09:46,994 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 14:09:47,011 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 14:09:47,014 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/spring-framework-2/src/test/resources
+2023-04-18 14:10:49,526 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 14:10:49,540 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 14:10:49,544 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/spring-framework-2/src/test/resources
+2023-04-18 14:30:42,089 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 14:30:42,116 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 14:30:42,119 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/spring-framework-2/src/test/resources
+2023-04-18 14:31:27,089 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 14:31:27,110 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 14:31:27,115 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/spring-framework-2/src/test/resources
+2023-04-18 14:32:41,212 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 14:32:41,225 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 14:32:41,230 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/spring-framework-2/src/test/resources
+2023-04-18 14:33:00,498 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@1bd089df{STOPPING}[10.0.13,sto=0]
+2023-04-18 14:33:00,502 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@3db6cef8{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2023-04-18 14:33:00,514 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@6e8ea78b{/help,null,STOPPED}
+2023-04-18 14:33:24,653 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-18 14:33:58,520 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 14:33:58,543 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 14:33:58,548 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/spring-framework-2/src/test/resources
+2023-04-18 14:35:01,415 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 14:35:01,460 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 14:35:01,483 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/spring-framework-2/src/test/resources
+2023-04-18 14:36:38,181 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.13; built: 2022-12-07T20:13:20.134Z; git: 1c2636ea05c0ca8de1ffd6ca7f3a98ac084c766d; jvm 17.0.6+10
+2023-04-18 14:36:38,212 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2023-04-18 14:36:38,246 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@1fea7281{/help,null,AVAILABLE}
+2023-04-18 14:36:38,259 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@3995657e{HTTP/1.1, (http/1.1)}{127.0.0.1:36973}
+2023-04-18 14:36:38,260 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@65693aad{STARTING}[10.0.13,sto=0] @216149ms
+2023-04-18 14:37:08,594 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 14:37:08,614 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 14:37:08,621 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/spring-framework-2/src/test/resources
+2023-04-18 14:37:17,519 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@65693aad{STOPPING}[10.0.13,sto=0]
+2023-04-18 14:37:17,524 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@3995657e{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2023-04-18 14:37:17,538 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@1fea7281{/help,null,STOPPED}
+2023-04-18 14:37:35,884 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-18 14:38:44,062 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 14:38:44,096 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 14:38:44,101 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/spring-framework-2/src/test/resources
+2023-04-18 14:40:08,421 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 14:40:08,432 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 14:40:08,435 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/spring-framework-2/src/test/resources
+2023-04-18 14:41:01,759 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 14:41:01,775 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 14:41:01,779 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/spring-framework-2/src/test/resources
+2023-04-18 14:43:20,772 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 14:43:20,781 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 14:43:20,784 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/spring-framework-2/src/test/resources
+2023-04-18 14:44:07,119 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.13; built: 2022-12-07T20:13:20.134Z; git: 1c2636ea05c0ca8de1ffd6ca7f3a98ac084c766d; jvm 17.0.6+10
+2023-04-18 14:44:07,138 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2023-04-18 14:44:07,171 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@46e4d41b{/help,null,AVAILABLE}
+2023-04-18 14:44:07,187 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@6c5e5078{HTTP/1.1, (http/1.1)}{127.0.0.1:36029}
+2023-04-18 14:44:07,189 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@2513879d{STARTING}[10.0.13,sto=0] @408724ms
+2023-04-18 14:44:24,865 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 14:44:24,889 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 14:44:24,892 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/spring-framework-2/src/test/resources
+2023-04-18 14:45:00,410 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 14:45:00,426 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 14:45:00,429 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/spring-framework-2/src/test/resources
+2023-04-18 14:45:06,324 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 14:45:06,341 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 14:45:06,344 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/spring-framework-2/src/test/resources
+2023-04-18 14:47:16,242 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 14:47:16,259 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 14:47:16,271 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/spring-framework-2/src/test/resources
+2023-04-18 14:49:07,770 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 14:49:07,778 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 14:49:07,783 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/spring-framework-2/src/test/resources
+2023-04-18 14:51:19,347 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 14:51:19,358 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 14:51:19,361 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/spring-framework-2/src/test/resources
+2023-04-18 14:52:36,466 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 14:52:36,475 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 14:52:36,478 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/spring-framework-2/src/test/resources
+2023-04-18 14:56:41,420 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 14:56:41,429 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 14:56:41,434 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/spring-framework-2/src/test/resources
+2023-04-18 14:59:00,541 [Worker-18: Launching DepInjectionLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 14:59:00,551 [Worker-18: Launching DepInjectionLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 14:59:00,554 [Worker-18: Launching DepInjectionLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/spring-framework-2/src/test/resources
+2023-04-18 15:03:10,694 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 15:03:10,703 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 15:03:10,705 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/spring-framework-2/src/test/resources
