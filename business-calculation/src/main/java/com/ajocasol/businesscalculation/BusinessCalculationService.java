@@ -5,9 +5,11 @@ import java.util.Arrays;
 
 
 import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 
 
-@Component
+//@Component
+@Service
 public class BusinessCalculationService {
 
 	private DataService dataService;
