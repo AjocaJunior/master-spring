@@ -2909,3 +2909,265 @@ org.eclipse.core.runtime.CoreException: Launch configuration Application referen
 2023-04-20 15:17:55,339 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-04-20 15:17:55,339 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-04-20 15:17:55,347 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 07:37:04,932 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-21 08:16:28,437 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 08:16:28,695 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 08:16:28,700 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 08:16:41,620 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-21 08:16:41,620 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-21 08:16:41,623 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 08:17:28,612 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 08:17:28,628 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 08:17:28,636 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 08:21:07,489 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 08:21:07,507 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 08:21:07,516 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 08:24:20,945 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 08:24:20,960 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 08:24:20,967 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 08:26:21,824 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 08:26:21,840 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 08:26:21,843 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 08:27:34,442 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 08:27:34,456 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 08:27:34,471 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 08:28:18,216 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-21 08:30:12,443 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 08:30:12,515 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 08:30:12,527 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 08:32:41,786 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 08:32:41,802 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 08:32:41,806 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 08:33:42,101 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 08:33:42,145 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 08:33:42,153 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 08:37:25,282 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ajocasol.springboot:learn-jpa-and-hibernate:0.0.1-SNAPSHOT @ /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/pom.xml.
+2023-04-21 08:37:25,651 [Worker-17: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/spring-boot-learn: com.ajocasol.springboot:spring-boot-learn:0.0.1-SNAPSHOT with classifier  to /spring-boot-learn/target/classes
+2023-04-21 08:37:25,872 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-21 08:37:25,872 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-21 08:37:25,881 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 08:44:16,537 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-21 08:44:23,727 [Worker-10: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/spring-boot-learn: com.ajocasol.springboot:spring-boot-learn:0.0.1-SNAPSHOT with classifier  to /spring-boot-learn/target/classes
+2023-04-21 08:44:29,824 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ajocasol.springboot:learn-jpa-and-hibernate:0.0.1-SNAPSHOT @ /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/pom.xml.
+2023-04-21 08:44:30,721 [Worker-10: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/spring-boot-learn: com.ajocasol.springboot:spring-boot-learn:0.0.1-SNAPSHOT with classifier  to /spring-boot-learn/target/classes
+2023-04-21 08:44:31,345 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 08:44:31,428 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 08:44:31,439 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 08:45:31,289 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 08:45:31,303 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 08:45:31,310 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 08:46:33,416 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 08:46:33,431 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 08:46:33,440 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 08:46:44,973 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-21 08:46:44,973 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-21 08:46:44,979 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 08:47:11,513 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 08:47:11,540 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 08:47:11,544 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 08:57:49,355 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 08:57:49,368 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 08:57:49,379 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 08:58:28,236 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 08:58:28,245 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 08:58:28,248 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 08:59:38,985 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 08:59:39,001 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 08:59:39,008 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 09:01:01,811 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:01:01,831 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:01:01,835 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 09:02:56,156 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:02:56,165 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:02:56,168 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 09:04:42,717 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:04:42,726 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:04:42,729 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 09:06:19,533 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:06:19,542 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:06:19,545 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 09:07:39,529 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-21 09:09:13,722 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-21 09:10:18,043 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:10:18,064 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-21 09:10:18,070 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/business-calculation/src/test/resources
+2023-04-21 09:10:20,111 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-04-21 09:10:20,215 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-21 09:10:20,221 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/Downloads/spring-boot-learn/src/test/resources
+2023-04-21 09:10:21,902 [Worker-4: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/spring-boot-learn: com.ajocasol.springboot:spring-boot-learn:0.0.1-SNAPSHOT with classifier  to /spring-boot-learn/target/classes
+2023-04-21 09:10:22,032 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:10:22,048 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:10:22,054 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 09:10:26,239 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:10:26,303 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-21 09:10:26,328 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/spring-framework-1/src/test/resources
+2023-04-21 09:10:28,415 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:10:28,485 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:10:28,521 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/spring-framework-2/src/test/resources
+2023-04-21 09:10:41,447 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:10:41,462 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:10:41,467 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 09:11:31,447 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:11:31,461 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:11:31,464 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 09:12:34,438 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:12:34,446 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:12:34,451 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 09:14:25,956 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:14:25,966 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:14:25,969 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 09:14:51,492 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-21 09:20:11,655 [Worker-10: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/spring-boot-learn: com.ajocasol.springboot:spring-boot-learn:0.0.1-SNAPSHOT with classifier  to /spring-boot-learn/target/classes
+2023-04-21 09:20:12,072 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:20:12,116 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:20:12,142 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 09:21:27,532 [Worker-14: Launching LearnJpaAndHibernateApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/spring-boot-learn: com.ajocasol.springboot:spring-boot-learn:0.0.1-SNAPSHOT with classifier null to /spring-boot-learn/target/classes
+2023-04-21 09:21:27,600 [Worker-14: Launching LearnJpaAndHibernateApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/spring-boot-learn: com.ajocasol.springboot:spring-boot-learn:0.0.1-SNAPSHOT with classifier null to /spring-boot-learn/target/classes
+2023-04-21 09:21:27,656 [Worker-14: Launching LearnJpaAndHibernateApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/spring-boot-learn: com.ajocasol.springboot:spring-boot-learn:0.0.1-SNAPSHOT with classifier null to /spring-boot-learn/target/classes
+2023-04-21 09:21:54,284 [Worker-11: Launching LearnJpaAndHibernateApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/spring-boot-learn: com.ajocasol.springboot:spring-boot-learn:0.0.1-SNAPSHOT with classifier null to /spring-boot-learn/target/classes
+2023-04-21 09:21:54,350 [Worker-11: Launching LearnJpaAndHibernateApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/spring-boot-learn: com.ajocasol.springboot:spring-boot-learn:0.0.1-SNAPSHOT with classifier null to /spring-boot-learn/target/classes
+2023-04-21 09:21:54,417 [Worker-11: Launching LearnJpaAndHibernateApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/spring-boot-learn: com.ajocasol.springboot:spring-boot-learn:0.0.1-SNAPSHOT with classifier null to /spring-boot-learn/target/classes
+2023-04-21 09:25:21,975 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:25:21,990 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:25:21,994 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 09:26:11,238 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:26:11,251 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:26:11,254 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 09:31:02,044 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:31:02,073 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:31:02,077 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 09:33:25,353 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:33:25,370 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:33:25,381 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 09:33:30,040 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:33:30,055 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:33:30,059 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 09:35:03,395 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:35:03,407 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:35:03,410 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 09:35:46,117 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:35:46,136 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:35:46,141 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 09:36:46,587 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:36:46,607 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:36:46,613 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 09:37:03,210 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:37:03,222 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:37:03,226 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 09:37:27,470 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:37:27,481 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 09:37:27,491 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 09:37:33,669 [Worker-23: Launching LearnJpaAndHibernateApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/spring-boot-learn: com.ajocasol.springboot:spring-boot-learn:0.0.1-SNAPSHOT with classifier null to /spring-boot-learn/target/classes
+2023-04-21 09:37:33,710 [Worker-23: Launching LearnJpaAndHibernateApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/spring-boot-learn: com.ajocasol.springboot:spring-boot-learn:0.0.1-SNAPSHOT with classifier null to /spring-boot-learn/target/classes
+2023-04-21 09:37:33,749 [Worker-23: Launching LearnJpaAndHibernateApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/spring-boot-learn: com.ajocasol.springboot:spring-boot-learn:0.0.1-SNAPSHOT with classifier null to /spring-boot-learn/target/classes
+2023-04-21 10:07:34,889 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:07:34,964 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:07:34,974 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 10:08:36,878 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:08:36,896 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:08:36,900 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 10:12:17,230 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:12:17,268 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:12:17,274 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 10:14:53,028 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:14:53,040 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:14:53,045 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 10:16:43,975 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:16:43,988 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:16:43,991 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 10:17:56,083 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:17:56,099 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:17:56,103 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 10:18:10,432 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:18:10,449 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:18:10,453 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 10:22:37,918 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:22:37,932 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:22:37,935 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 10:24:11,959 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:24:11,991 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:24:11,996 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 10:29:43,915 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:29:43,967 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:29:43,971 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 10:30:08,140 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:30:08,152 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:30:08,157 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 10:32:11,551 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:32:11,560 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:32:11,563 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 10:51:32,492 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:51:32,518 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:51:32,524 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 10:54:26,565 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:54:26,578 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:54:26,582 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 10:54:48,529 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:54:48,548 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:54:48,555 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 10:55:07,970 [Worker-51: Launching LearnJpaAndHibernateApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/spring-boot-learn: com.ajocasol.springboot:spring-boot-learn:0.0.1-SNAPSHOT with classifier null to /spring-boot-learn/target/classes
+2023-04-21 10:55:08,048 [Worker-51: Launching LearnJpaAndHibernateApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/spring-boot-learn: com.ajocasol.springboot:spring-boot-learn:0.0.1-SNAPSHOT with classifier null to /spring-boot-learn/target/classes
+2023-04-21 10:55:08,094 [Worker-51: Launching LearnJpaAndHibernateApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/spring-boot-learn: com.ajocasol.springboot:spring-boot-learn:0.0.1-SNAPSHOT with classifier null to /spring-boot-learn/target/classes
+2023-04-21 10:55:56,755 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:55:56,769 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:55:56,771 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 10:56:03,141 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:56:03,155 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:56:03,157 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 10:56:45,215 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:56:45,227 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:56:45,236 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 10:58:38,818 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 10:58:38,832 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-21 10:58:38,854 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 11:15:27,339 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 11:15:27,421 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-21 11:15:27,433 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 11:16:51,272 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 11:16:51,291 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 11:16:51,295 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 11:19:56,490 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 11:19:56,504 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 11:19:56,507 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 11:23:25,343 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 11:23:25,357 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 11:23:25,360 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 11:24:20,892 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 11:24:20,908 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 11:24:20,910 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 11:29:33,238 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 11:29:33,257 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 11:29:33,260 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 11:30:40,450 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 11:30:40,465 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 11:30:40,480 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 11:31:17,317 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 11:31:17,329 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 11:31:17,332 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 11:31:21,654 [Worker-73: Launching LearnJpaAndHibernateApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/spring-boot-learn: com.ajocasol.springboot:spring-boot-learn:0.0.1-SNAPSHOT with classifier null to /spring-boot-learn/target/classes
+2023-04-21 11:31:21,693 [Worker-73: Launching LearnJpaAndHibernateApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/spring-boot-learn: com.ajocasol.springboot:spring-boot-learn:0.0.1-SNAPSHOT with classifier null to /spring-boot-learn/target/classes
+2023-04-21 11:31:21,736 [Worker-73: Launching LearnJpaAndHibernateApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/spring-boot-learn: com.ajocasol.springboot:spring-boot-learn:0.0.1-SNAPSHOT with classifier null to /spring-boot-learn/target/classes
+2023-04-21 11:33:16,027 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 11:33:16,040 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 11:33:16,043 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 11:34:29,259 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 11:34:29,274 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 11:34:29,286 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 11:35:50,014 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 11:35:50,027 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 11:35:50,030 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 11:40:27,813 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 11:40:27,826 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 11:40:27,829 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 11:41:20,947 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 11:41:20,960 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 11:41:20,963 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 11:41:56,733 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 11:41:56,746 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 11:41:56,748 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 11:42:55,133 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 11:42:55,178 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 11:42:55,186 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
+2023-04-21 11:43:56,335 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 11:43:56,348 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-21 11:43:56,351 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/assisjr/eclipse-workspace/master-spring/learn-jpa-and-hibernate/src/test/resources
